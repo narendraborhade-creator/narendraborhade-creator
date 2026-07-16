@@ -11,7 +11,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+developer+profile...;Access+Level%3A+Root;Full-Stack+Developer+%7C+Open-Source+Enthusiast;Building+clean+code+with+creative+chaos;Always+learning.+Always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+developer+profile...;Access+Level%3A+Root;Full-Stack+Developer+%7C+TypeScript+%7C+React+%7C+Node.js;Cybersecurity+Enthusiast;Anime-powered+coding+sessions+enabled" alt="Typing animation" />
 
 </div>
 
@@ -62,6 +62,16 @@ I enjoy clean architecture, developer tooling, and interfaces that feel fast and
 
 ---
 
+## 🚀 Featured Projects
+
+- [**Stream-HUB**](https://github.com/narendraborhade-creator/Stream-HUB) — Streaming-focused platform project with a modern full-stack architecture.
+- [**Anime-App**](https://github.com/narendraborhade-creator/Anime-App) — Anime discovery/showcase app built with a clean and interactive UI.
+- [**network-sniffer-gui**](https://github.com/narendraborhade-creator/network-sniffer-gui) — GUI-based network traffic analyzer for packet inspection and security learning. **Tags:** `#cybersecurity` `#typescript` `#gui`
+- [**Net-Optimization-Website**](https://github.com/narendraborhade-creator/Net-Optimization-Website) — Web experience focused on network optimization concepts and performance.
+- [**react-showcase-app**](https://github.com/narendraborhade-creator/react-showcase-app) — React-based showcase project highlighting reusable components and modern UI patterns.
+
+---
+
 ## 🧩 Current Objectives
 
 - 🚀 Building full-stack projects with clean and scalable architecture  
@@ -90,10 +100,7 @@ I enjoy clean architecture, developer tooling, and interfaces that feel fast and
   <a href="https://github.com/narendraborhade-creator" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:narendra.borhade@nmiet.edu.in">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
