@@ -11,7 +11,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+developer+profile...;Access+Level%3A+Root;Full-Stack+Developer+%7C+TypeScript+%7C+React+%7C+Node.js;Cybersecurity+Enthusiast;Anime-powered+coding+sessions+enabled" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+developer+profile...;Access+Level%3A+Root;Full-Stack+Developer" alt="Typing animation" />
 
 </div>
 
@@ -62,11 +62,26 @@ I enjoy clean architecture, developer tooling, and interfaces that feel fast and
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Repositories
+
+- [**Ageis-scanner**](https://github.com/narendraborhade-creator/Ageis-scanner) — Aegis 3D Safe Browser with Chromium, SOC telemetry, Quantum DNS Shield, zero-trust sandboxing, and an in-browser media player.
+- [**Manga.for-me**](https://github.com/narendraborhade-creator/Manga.for-me) — A manga-reading platform.
+- [**Safe-Web-Scanner-v2**](https://github.com/narendraborhade-creator/Safe-Web-Scanner-v2) — Updated safe web-scanning project.
+- [**Safe-web-scanner**](https://github.com/narendraborhade-creator/Safe-web-scanner) — Web security and safety scanning project.
+- [**dns-threat-analyzer**](https://github.com/narendraborhade-creator/dns-threat-analyzer) — DNS threat analysis and security tooling.
+- [**Chat-Based-CLI-Assistant-Mini-AI-System-**](https://github.com/narendraborhade-creator/Chat-Based-CLI-Assistant-Mini-AI-System-) — A mini AI assistant for the command line.
+
+## 📦 Latest Release
+
+- [**Aegis 3D Safe Browser v1.0.0**](https://github.com/narendraborhade-creator/Ageis-scanner/releases/tag/v1.0.0) — Production Windows x64 release published on **October 24, 2026**, with downloadable Windows installers and an Android APK.
+
+---
+
+## 🧩 Featured Projects
 
 - [**Stream-HUB**](https://github.com/narendraborhade-creator/Stream-HUB) — Streaming-focused platform project with a modern full-stack architecture.
 - [**Anime-App**](https://github.com/narendraborhade-creator/Anime-App) — Anime discovery/showcase app built with a clean and interactive UI.
-- [**network-sniffer-gui**](https://github.com/narendraborhade-creator/network-sniffer-gui) — GUI-based network traffic analyzer for packet inspection and security learning. **Tags:** `#cybersecurity` `#typescript` `#gui`
+- [**network-sniffer-gui**](https://github.com/narendraborhade-creator/network-sniffer-gui) — GUI-based network traffic analyzer for packet inspection and security learning.
 - [**Net-Optimization-Website**](https://github.com/narendraborhade-creator/Net-Optimization-Website) — Web experience focused on network optimization concepts and performance.
 - [**react-showcase-app**](https://github.com/narendraborhade-creator/react-showcase-app) — React-based showcase project highlighting reusable components and modern UI patterns.
 
