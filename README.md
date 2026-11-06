@@ -17,6 +17,12 @@
 
 ---
 
+## 🔗 Quick Links
+
+[🌐 Portfolio](https://narendraborhade-creator.github.io/) · [🐙 GitHub](https://github.com/narendraborhade-creator) · [📧 Email](mailto:narendra.borhade@nmiet.edu.in)
+
+---
+
 ## 🧠 `whoami`
 
 ```bash
@@ -64,16 +70,16 @@ I enjoy clean architecture, developer tooling, and interfaces that feel fast and
 
 ## 🚀 Latest Repositories
 
-- [**Ageis-scanner**](https://github.com/narendraborhade-creator/Ageis-scanner) — Aegis 3D Safe Browser with Chromium, SOC telemetry, Quantum DNS Shield, zero-trust sandboxing, and an in-browser media player.
-- [**Manga.for-me**](https://github.com/narendraborhade-creator/Manga.for-me) — A manga-reading platform.
+- [**Notes-Manager-Task-2**](https://github.com/narendraborhade-creator/Notes-Manager-Task-2) — Dark-themed desktop notes app built with Python and Tkinter.
+- [**Anime-Watcher**](https://github.com/narendraborhade-creator/Anime-Watcher) · [Live demo](https://anime-watcher-cyan.vercel.app) — Anime discovery and watching website.
+- [**Ageis-scanner**](https://github.com/narendraborhade-creator/Ageis-scanner) — 3D safe browser and security tooling project.
+- [**Manga.for-me**](https://github.com/narendraborhade-creator/Manga.for-me) — Manga-reading platform.
 - [**Safe-Web-Scanner-v2**](https://github.com/narendraborhade-creator/Safe-Web-Scanner-v2) — Updated safe web-scanning project.
-- [**Safe-web-scanner**](https://github.com/narendraborhade-creator/Safe-web-scanner) — Web security and safety scanning project.
 - [**dns-threat-analyzer**](https://github.com/narendraborhade-creator/dns-threat-analyzer) — DNS threat analysis and security tooling.
-- [**Chat-Based-CLI-Assistant-Mini-AI-System-**](https://github.com/narendraborhade-creator/Chat-Based-CLI-Assistant-Mini-AI-System-) — A mini AI assistant for the command line.
 
 ## 📦 Latest Release
 
-- [**Aegis 3D Safe Browser v1.0.0**](https://github.com/narendraborhade-creator/Ageis-scanner/releases/tag/v1.0.0) — Production Windows x64 release published on **October 24, 2026**, with downloadable Windows installers and an Android APK.
+- [**Ageis 3D Safe Browser v1.0.0**](https://github.com/narendraborhade-creator/Ageis-scanner/releases/tag/v1.0.0) — Production Windows x64 release published on **October 24, 2026**, with downloadable Windows installers and an Android APK.
 
 ---
 
