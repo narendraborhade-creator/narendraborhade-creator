@@ -19,7 +19,7 @@
 
 ## 🔗 Quick Links
 
-[🌐 Portfolio](https://narendraborhade-creator.github.io/) · [🐙 GitHub](https://github.com/narendraborhade-creator) · [📧 Email](mailto:narendra.borhade@nmiet.edu.in)
+[🌐 Portfolio](https://narendraborhade-creator.github.io/) · [🛡️ Aegis](https://www.aegisscans.dev/) · [🐙 GitHub](https://github.com/narendraborhade-creator) · [📧 Email](mailto:narendra.borhade@nmiet.edu.in)
 
 ---
 
@@ -28,7 +28,7 @@
 ```bash
 > name: Narendra Borhade
 > role: Full-Stack Developer
-> location: India
+> location: Pune, India
 > mission: Build impactful products + contribute to open source
 > status: Learning, building, breaking, fixing, repeating...
 ```
@@ -70,16 +70,16 @@ I enjoy clean architecture, developer tooling, and interfaces that feel fast and
 
 ## 🚀 Latest Repositories
 
-- [**Notes-Manager-Task-2**](https://github.com/narendraborhade-creator/Notes-Manager-Task-2) — Dark-themed desktop notes app built with Python and Tkinter.
-- [**Anime-Watcher**](https://github.com/narendraborhade-creator/Anime-Watcher) · [Live demo](https://anime-watcher-cyan.vercel.app) — Anime discovery and watching website.
-- [**Ageis-scanner**](https://github.com/narendraborhade-creator/Ageis-scanner) — 3D safe browser and security tooling project.
-- [**Manga.for-me**](https://github.com/narendraborhade-creator/Manga.for-me) — Manga-reading platform.
-- [**Safe-Web-Scanner-v2**](https://github.com/narendraborhade-creator/Safe-Web-Scanner-v2) — Updated safe web-scanning project.
-- [**dns-threat-analyzer**](https://github.com/narendraborhade-creator/dns-threat-analyzer) — DNS threat analysis and security tooling.
+- [**soc-browser**](https://github.com/narendraborhade-creator/soc-browser) — Hardened Electron browser for SOC triage, phishing investigation, and threat-intel enrichment.
+- [**Ageis-scanner**](https://github.com/narendraborhade-creator/Ageis-scanner) · [aegisscans.dev](https://www.aegisscans.dev/) — 3D safe browser and security tooling project.
+- [**Manga.for-me**](https://github.com/narendraborhade-creator/Manga.for-me) · [Live app](https://narendraborhade-creator.github.io/Manga.for-me/) — Manga and manhwa discovery and reading app.
+- [**Narendra-Portfolio**](https://github.com/narendraborhade-creator/Narendra-Portfolio) · [Live portfolio](https://narendraborhade-creator.github.io/Narendra-Portfolio/) — Interactive cyber-themed portfolio.
+- [**movies-for-me**](https://github.com/narendraborhade-creator/movies-for-me) · [Live app](https://movies-for-me-five.vercel.app/) — Movie, TV, and anime discovery and streaming app.
+- [**Manga-reader**](https://github.com/narendraborhade-creator/Manga-reader) · [Live app](https://manga-reader-drab.vercel.app/) — Cyberpunk-themed manga reader.
 
 ## 📦 Latest Release
 
-- [**Ageis 3D Safe Browser v1.0.0**](https://github.com/narendraborhade-creator/Ageis-scanner/releases/tag/v1.0.0) — Production Windows x64 release published on **October 24, 2026**, with downloadable Windows installers and an Android APK.
+- [**Aegis 3D Safe Browser v2.1.0 (SOC Analyst Edition)**](https://github.com/narendraborhade-creator/Ageis-scanner/releases/tag/v2.1.0) — Published **November 23, 2026**. Adds SOC analysis and threat-intelligence tools, a native Chromium desktop engine, private sessions, and Android stability fixes. Includes [Windows installer](https://github.com/narendraborhade-creator/Ageis-scanner/releases/download/v2.1.0/Aegis-3D-Safe-Browser-Setup.exe), [standalone Windows app](https://github.com/narendraborhade-creator/Ageis-scanner/releases/download/v2.1.0/Aegis-3D-Safe-Browser.exe), and [Android APK](https://github.com/narendraborhade-creator/Ageis-scanner/releases/download/v2.1.0/Aegis-3D-Safe-Browser.apk).
 
 ---
 
